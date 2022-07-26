@@ -56,7 +56,7 @@ const App = () => {
       return (
         <div className="connect-wallet-container">
           <img
-            src="https://64.media.tumblr.com/tumblr_mbia5vdmRd1r1mkubo1_500.gifv"
+            src="https://i.pinimg.com/originals/86/1d/53/861d531a825b4292e95f3ed9962a9a67.gif"
             alt="Monty Python Gif"
           />
           <button
@@ -132,8 +132,8 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header gradient-text">⚔️ Metaverse Slayer ⚔️</p>
-          <p className="sub-text">Team up to protect the Metaverse!</p>
+          <p className="header gradient-text">⚔️ Great allied shinobi world war ⚔️</p>
+          <p className="sub-text">Team up defeat the great madara uchiha</p>
           {/* This is where our button and image code used to be!
            *	Remember we moved it into the render method.
            */}
